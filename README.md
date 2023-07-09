@@ -4,7 +4,7 @@ OVERVIEW:
 
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
-##Data Preprocessing
+**Data Preprocessing**
 
 What variable(s) are the target(s) for your model?
 * the column IS_SUCCESSFUL was targeted from the application_df for the prediction.
@@ -56,7 +56,7 @@ Then i decided to use another activation function Tanh, hoping to get better per
 ![Screenshot (6)](https://github.com/RukayatAde/deep-learning-challenge./assets/123358630/00e28dee-3448-4999-ad29-d69808294835)
 
 
-##CONCLUSION
+**CONCLUSION**
 * I was unable to achieve the target performance for this deep learning model. So, if i want to try this in future
   i would make sure the data is properly cleaned, consider adding more neaurons and try other algorithms. 
 
