@@ -25,7 +25,7 @@ What variable(s) should be removed from the input data because they are neither 
 * The EIN and NAME columns were dropped fromt the data because they were neither targets nor featues
 
 
-##Compiling, Training, and Evaluating the Model
+**Compiling, Training, and Evaluating the Model**
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 * For the first neural network model, i used 20 neurons for the first layer and 15 neuron for the second layer. and i chose ReLu as the activation function because it is more faster and does not have vanishing gradient problem.
